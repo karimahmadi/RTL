@@ -1,6 +1,6 @@
 {
   "name": "@ReactSeam/rtl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "RTL Component description",
   "license": "ISC",
   "main": "dist/rtl.js",
@@ -45,7 +45,7 @@
   },
   "peerDependencies": {
     "@material-ui/core": "^4.10.2",
-		"jss-rtl": "^0.3.0",
+    "jss-rtl": "^0.3.0",
     "prop-types": "15.7.2"
   },
   "dependencies": {
